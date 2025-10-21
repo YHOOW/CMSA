@@ -27,3 +27,13 @@ Clustering results:
 ACC = 0.7278 NMI = 0.4918 PUR=0.8457 ARI = 4544
 Saving model...
 ```
+## 3.Citation
+After setting up the environment as described in the README, you can run the code.
+
+This work is inspired by:
+
+MVCformer: A transformer-based multi-view clustering method (GitHub)
+
+GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering (GitHub)
+
+I would like to express my respect for these outstanding research works.
