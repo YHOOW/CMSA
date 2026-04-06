@@ -11,7 +11,7 @@ numpy==1.26.4
 scikit-learn==1.4.1
 
 ## 2.Datasets
-The Prokaryotic dataset is included in our repository. All other datasets can be downloaded from: https://github.com/liangsishan/CMSA-big-multi-view-datasets.
+The Prokaryotic dataset is included in our repository. All other datasets can be downloaded from: https://github.com/liangsishan/CMSA-multi-view-datasets.
 The datasets are collected and organized with reference to the work “GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering” (CVPR 2023), available at: https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf
 
 ## 3.Usage
