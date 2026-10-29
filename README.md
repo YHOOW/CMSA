@@ -1,5 +1,5 @@
 # CMSA
-Contrast-driven incremental Multi-view clustering with Semantic distillation and Adaptive graph fusion (CMSA)
+If you find this code useful, please cite the following paper: Yin H, Chen H, Hu W, et al. Contrast-driven incremental multi-view clustering with semantic distillation and adaptive graph fusion[J]. Pattern Recognition, 2026: 113856. Please contact 02713@huznu.edu.cn if you have any questions.
 
 
 ## 1.Requirements
