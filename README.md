@@ -1,5 +1,24 @@
 # CMSA
 If you find this code useful, please cite the following paper: Yin H, Chen H, Hu W, et al. Contrast-driven incremental multi-view clustering with semantic distillation and adaptive graph fusion[J]. Pattern Recognition, 2026: 113856. Please contact 02713@huznu.edu.cn if you have any questions.
+BibTex:
+@article{DBLP:journals/pr/YinCHZW26,
+  author       = {Hongwei Yin and
+                  Hongpeng Chen and
+                  Wenjun Hu and
+                  Peng Zhou and
+                  Shitong Wang},
+  title        = {Contrast-driven incremental multi-view clustering with semantic distillation
+                  and adaptive graph fusion},
+  journal      = {Pattern Recognit.},
+  volume       = {179},
+  pages        = {113856},
+  year         = {2026},
+  url          = {https://doi.org/10.1016/j.patcog.2026.113856},
+  doi          = {10.1016/J.PATCOG.2026.113856},
+  timestamp    = {Mon, 22 Jun 2026 07:34:43 +0200},
+  biburl       = {https://dblp.org/rec/journals/pr/YinCHZW26.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 ## 1.Requirements
