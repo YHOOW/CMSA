@@ -1,5 +1,6 @@
 # CMSA
 If you find this code useful, please cite the following paper: Yin H, Chen H, Hu W, et al. Contrast-driven incremental multi-view clustering with semantic distillation and adaptive graph fusion[J]. Pattern Recognition, 2026: 113856. Please contact 02713@huznu.edu.cn if you have any questions.
+
 BibTeX:
 ```bibtex
 @article{DBLP:journals/pr/YinCHZW26,
@@ -11,7 +12,8 @@ BibTeX:
   year    = {2026},
   url     = {https://doi.org/10.1016/j.patcog.2026.113856},
   doi     = {10.1016/J.PATCOG.2026.113856}
-}```
+}
+
 
 
 
