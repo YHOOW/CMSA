@@ -42,6 +42,26 @@ if args.dataset == "Prokaryotic":
     args.rec_epochs = 20
     args.fine_tune_epochs = 20
     seed = 7
+if args.dataset == "CCV":
+    args.rec_epochs = 40
+    args.fine_tune_epochs = 160
+    seed = 3 #3
+if args.dataset == "Synthetic3d":
+    args.rec_epochs = 20
+    args.fine_tune_epochs = 30
+    seed = 7
+if args.dataset == "Caltech-5V":
+    args.rec_epochs = 200
+    args.fine_tune_epochs = 10
+    seed = 13
+if args.dataset == "BDGP":
+    args.rec_epochs = 200#200
+    args.fine_tune_epochs = 10#10
+    seed = 3 #3
+if args.dataset == "Caltech20":
+    args.rec_epochs = 10
+    args.fine_tune_epochs = 10
+    seed = 9
 
 def setup_seed(seed):
     torch.manual_seed(seed)
